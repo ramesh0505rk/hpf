@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "dIWqdEIiiUY8vmHjpDlpFD5ZdSrjNgbYOKKpocTh34M=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\createVault.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "createVault.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\createVault.html"
+    },
+    {
+      "Identity": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\paymentForm.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "paymentForm.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\paymentForm.html"
+    }
+  ]
+}

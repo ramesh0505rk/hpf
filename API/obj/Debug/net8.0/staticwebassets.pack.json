@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\createVault.html",
+      "PackagePath": "staticwebassets\\createVault.html"
+    },
+    {
+      "Id": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\Angular.NetProjects\\HPFApp\\HPF\\API\\wwwroot\\paymentForm.html",
+      "PackagePath": "staticwebassets\\paymentForm.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
